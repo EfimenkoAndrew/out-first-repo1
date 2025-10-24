@@ -2,5 +2,4 @@ hello
 i am a commit
 
 commit master
-merge tool example feature b
 edited
