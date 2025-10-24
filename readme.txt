@@ -1,4 +1,4 @@
 Hello, world!
 I am a C# lover and a developer!
 cool line
-Cleanup is not so good
+Cleanup is not so good. Yes it is
